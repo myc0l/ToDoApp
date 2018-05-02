@@ -3,7 +3,6 @@
 	width: 360px;
 	background: #f7f7f7;
 	box-shadow: 0 0 3px rgba(0, 0, 0.1);
-
 }
 
 .completed {
@@ -27,9 +26,6 @@ ul {
 	padding: 0;
 }
 
-body {
-	font-family: Roboto;
-}
 
 li {
 	background: #fff;
@@ -44,8 +40,8 @@ li:nth-child(2n) {
 
 input {
 	font-size: 18px;
-	background-color: #f7f7f7:
-	width:50%;
+	background-color: #f7f7f7;
+	width: 100%;
 	padding: 13px 13px 13px 20px;
 	box-sizing: border-box;
 	color: #2980b9; 
@@ -58,8 +54,8 @@ input:focus {
 }
 
 body {
-	background: #603813;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #b29f94, #603813);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #b29f94, #603813); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+	background: #77A1D3;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	font-family: Roboto;
 }
